@@ -42,3 +42,7 @@ Module Type: Runtime
 Primary Component: UPlayerAttributeComponent
 Dependencies: Niagara
 Supported Platforms: Win64, Mac, Linux, iOS, Android, Consoles
+
+## ⭐ Support
+
+If you find this plugin useful, consider giving the repository a **Star** ⭐ to support future updates.
